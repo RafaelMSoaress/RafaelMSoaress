@@ -75,6 +75,6 @@ descrição
     style="float: left; padding-right: 10px;"
     alt="GitHub Stats" 
     height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelmsoaress&theme=tokyonight&layout=compact&custom_title=Languages&langs_count=9"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelmsoaress&theme=tokyonight&ayout=pie&custom_title=Languages &langs_count=9"
   />
 </p>
