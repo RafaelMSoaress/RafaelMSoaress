@@ -61,17 +61,19 @@ descrição
 <br/>
 
 ### 📊 Statistics
-<p align="center">
+<p>
   <img
-    style="float: left; padding-right: 10px;"
+    align="left"
     alt="GitHub Stats" 
-    height="200" 
+    height="200"
+    style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=rafaelmsoaress&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
   <img 
-    style="float: left; padding-right: 10px;"
+    align="left"
     alt="GitHub Stats" 
-    height="200" 
+    height="200"
+    style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelmsoaress&theme=tokyonight&custom_title=Languages&langs_count=9"
   />
 </p>
