@@ -2,7 +2,7 @@
 
 **`Developer`**
 <div align="center">
-    <a href="https://www.linkedin.com/public-profile/settings/?trk=d_flagship3_profile_self_view_public_profile&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BEvVCdPfkRoK0DslFsGlE%2Fg%3D%3D">
+    <a href="http://linkedin.com/in/rafael-mour%C3%A3o-soares-34495a293/?trk=public-profile-join-page">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />  
 </div>
 
